@@ -21,12 +21,12 @@ I analyzed a dataset containing transaction records for stores in the USA from 2
 [Back to Content](#content)
 
 ### Barchart
-In this project, I scrutinized annual bonuses awarded to employees of USA stores at the financial year-end, identifying top-performing employees in each region based on total sales value. Tableau's barcharts effectively conveyed this information.
+In this project, I scrutinized annual bonuses awarded to employees of USA stores at the financial year-end, identifying top-performing employees in each region based on total sales value. Tableau's bar charts effectively conveyed this information.
 <a name="barchart"></a>
 [Back to Content](#content)
 
 ### Time Series, Aggregation, and Filters
-Exploring a dataset of long-term unemployment statistics, I investigated variations in unemployment rates over time periods. Utilizing diverse chart types in Tableau, I skillfully presented these insights.
+Exploring a dataset of long-term unemployment statistics, I investigated variations in unemployment rates overtime periods. Utilizing diverse chart types in Tableau, I skillfully presented these insights.
 <a name="time-series-aggregation-and-filters"></a>
 [Back to Content](#content)
 
@@ -57,4 +57,4 @@ Incorporating new tools from Tableau 2020, I tackled two engaging case studies:
 <a name="tableau-2020"></a>
 [Back to Content](#content)
 
-Explore these assignments to witness my journey in crafting interactive and informative data visualizations. Note that this were guided by my instructor of udemy course.
+Do Explore these assignments to witness my journey in crafting interactive and informative data visualizations. Note that this was guided by my instructor of the Udemy course.
